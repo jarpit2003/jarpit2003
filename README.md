@@ -1,21 +1,54 @@
 <h1 align="center">Hi 👋, I'm Arpit Jain</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">🚀 A Passionate Software Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jarpit2003&label=Profile%20views&color=0e75b6&style=flat" alt="jarpit2003" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jarpit2003" alt="jarpit2003" /></a> </p>
+### 👨‍💻 About Me  
+- 🌱 Currently diving deep into **Full Stack Development & Machine Learning**  
+- 💡 Exploring **AI/ML, Cloud, and Scalable Applications**  
+- 🔭 Working on projects like **Agrismart** (Agri-tech solutions for farmers)  
+- 📫 Reach me at: **arpitjain2003aj@gmail.com**  
+- ⚡ Fun fact: I love blending **data, logic, and creativity** to solve real-world problems.  
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+---
 
-<h3 align="left">Connect with me:</h3>
+### 🌐 Connect with Me  
 <p align="left">
+<a href="https://linkedin.com/in/arpit-jain-2003" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"/></a>
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="40"/></a>
+<a href="mailto:arpitjain2003aj@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Email" height="40"/></a>
+<a href="https://github.com/jarpit2003" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jarpit2003&show_icons=true&locale=en&layout=compact" alt="jarpit2003" /></p>
+### 🛠️ Languages & Tools  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js,java,matlab,linux,git,react,nodejs,express,mysql,mongodb,arduino" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jarpit2003&show_icons=true&locale=en" alt="jarpit2003" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jarpit2003&" alt="jarpit2003" /></p>
+### 📊 GitHub Analytics  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jarpit2003&show_icons=true&theme=tokyonight" alt="stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jarpit2003&layout=compact&theme=tokyonight" alt="top-langs" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jarpit2003&theme=tokyonight" alt="streak"/>
+</p>
+
+---
+
+### 🏆 Achievements  
+<p align="center"> 
+  <img src="https://github-profile-trophy.vercel.app/?username=jarpit2003&theme=radical&margin-w=15&margin-h=15&no-frame=true" alt="trophies"/>
+</p>
+
+---
+
+### ✨ Fun Quote  
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote"/>
+</p>
